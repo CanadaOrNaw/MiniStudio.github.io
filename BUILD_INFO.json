@@ -1,0 +1,30 @@
+{
+  "generated_assets": {
+    "assets/button-layout.json": {
+      "bytes": 5590,
+      "sha256": "c1af5f61185f20243b6a584efb6fb823445521c141d81ff63cb0ca6c51431b4b"
+    },
+    "assets/mini-studio-16-button-layout.svg": {
+      "bytes": 17166,
+      "sha256": "26c2187ebd2ef99220900d92d7b8d09d58e3c500abac79b4a9a4c2f0bb37d786"
+    },
+    "downloads/button-layout.json": {
+      "bytes": 5590,
+      "sha256": "c1af5f61185f20243b6a584efb6fb823445521c141d81ff63cb0ca6c51431b4b"
+    },
+    "downloads/mini-studio-16-bench-cradle.scad": {
+      "bytes": 1437,
+      "sha256": "bd2fd44682f8256df6de9f25100c0e3df5bc80eee937318ada71f0ca1b466b94"
+    },
+    "downloads/mini-studio-16-bench-cradle.stl": {
+      "bytes": 16884,
+      "sha256": "9bd937b443855e70950b3e35b54db70b834f2d23099e5921e0fa3aae7ceff865"
+    },
+    "downloads/mini-studio-16-button-layout.svg": {
+      "bytes": 17166,
+      "sha256": "26c2187ebd2ef99220900d92d7b8d09d58e3c500abac79b4a9a4c2f0bb37d786"
+    }
+  },
+  "project": "Mini Studio 16",
+  "source_sha": "a92648f5ca315abe6115bec1e5b5f9f33573180d"
+}
