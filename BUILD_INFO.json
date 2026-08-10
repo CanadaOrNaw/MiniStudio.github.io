@@ -9,8 +9,8 @@
       "sha256": "26c2187ebd2ef99220900d92d7b8d09d58e3c500abac79b4a9a4c2f0bb37d786"
     },
     "downloads/AUDIO_CAP_BUILD.md": {
-      "bytes": 3838,
-      "sha256": "bc9995ec3d1905ecca4cc15200fd8ec126beb0143d7dfb89076f86574459abad"
+      "bytes": 4151,
+      "sha256": "f079b4670b042b059dc4c103e1a91f75ad4d18b8350cdcc2a94aa3642a76fed8"
     },
     "downloads/START_HERE.md": {
       "bytes": 2284,
@@ -58,5 +58,5 @@
     }
   },
   "project": "Mini Studio 16",
-  "source_sha": "3430db3e15ee48c2f0fe9c59bf43ec1a31ed3a4b"
+  "source_sha": "d514bb59694c5324214fe2372bbc7dbfdc6f0dda"
 }
