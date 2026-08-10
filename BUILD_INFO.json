@@ -8,6 +8,22 @@
       "bytes": 17166,
       "sha256": "26c2187ebd2ef99220900d92d7b8d09d58e3c500abac79b4a9a4c2f0bb37d786"
     },
+    "downloads/AUDIO_CAP_BUILD.md": {
+      "bytes": 3838,
+      "sha256": "bc9995ec3d1905ecca4cc15200fd8ec126beb0143d7dfb89076f86574459abad"
+    },
+    "downloads/START_HERE.md": {
+      "bytes": 2284,
+      "sha256": "8e4b19fd77130fe173e215495946fd1df7b69954674d9a4c1956da9c78456962"
+    },
+    "downloads/audio-cap-pcb-reference.svg": {
+      "bytes": 87020,
+      "sha256": "e305714d8d4dfc226219867381e24d0c84eabca57bae2983be7ffdb8b704f767"
+    },
+    "downloads/audio-cap-sourcing.md": {
+      "bytes": 4533,
+      "sha256": "082b5212a71b3c135112708d9febaee6a1869c3bda9f4d33b899787966674dbb"
+    },
     "downloads/button-layout.json": {
       "bytes": 5590,
       "sha256": "c1af5f61185f20243b6a584efb6fb823445521c141d81ff63cb0ca6c51431b4b"
@@ -23,8 +39,24 @@
     "downloads/mini-studio-16-button-layout.svg": {
       "bytes": 17166,
       "sha256": "26c2187ebd2ef99220900d92d7b8d09d58e3c500abac79b4a9a4c2f0bb37d786"
+    },
+    "downloads/mini-studio-audio-cap-base.stl": {
+      "bytes": 54084,
+      "sha256": "b26de87868af55895731d467dbdb25c338854ae7d1248ec8f47e39958d026fdd"
+    },
+    "downloads/mini-studio-audio-cap-bom.csv": {
+      "bytes": 2821,
+      "sha256": "078b37fa5a50a6b1a0d48b3b5dabc71959209bdacca295dafa8caab4bf155b2d"
+    },
+    "downloads/mini-studio-audio-cap-lid.stl": {
+      "bytes": 14284,
+      "sha256": "794cc893979d4dcdafc44cfd2983ba1e391a9198a57a9294483938457e112ea2"
+    },
+    "downloads/mini-studio-audio-cap.scad": {
+      "bytes": 2220,
+      "sha256": "8142b2360d375e66ce3c554d40b9e0f0ab1114d06b8d7039fd78d125f1690b7e"
     }
   },
   "project": "Mini Studio 16",
-  "source_sha": "a92648f5ca315abe6115bec1e5b5f9f33573180d"
+  "source_sha": "3430db3e15ee48c2f0fe9c59bf43ec1a31ed3a4b"
 }
