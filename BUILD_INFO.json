@@ -9,40 +9,40 @@
       "sha256": "26c2187ebd2ef99220900d92d7b8d09d58e3c500abac79b4a9a4c2f0bb37d786"
     },
     "downloads/AUDIO_CAP_BOM.md": {
-      "bytes": 7565,
-      "sha256": "6496256386694ca6f71957a54d0c60aefeaf190c1f4083b4ffc0bb7c0fe478b4"
+      "bytes": 7950,
+      "sha256": "cfad371b726a45e50878167df1a59aecaa9ce0c4880bb44159e15383ac33345a"
     },
     "downloads/AUDIO_CAP_BUILD_GUIDE.md": {
-      "bytes": 7729,
-      "sha256": "4d55ab9fe49c98615dfc59dbadff6a22eae920c3673aa72386ad22524af01b50"
+      "bytes": 9770,
+      "sha256": "242e493edd28d96909c83d50b02647598a615df27d9ff94f97604a8ae4c47fb7"
     },
     "downloads/FLASHING.md": {
-      "bytes": 4501,
-      "sha256": "a456a00f8aeb60baeb4f2786835ef099375c559f4cabbcf427cdc3a5fe1dcee2"
+      "bytes": 4571,
+      "sha256": "be1ef8911070aca59a6dba0b4b0f4b6ee3f15ba5e6847a86884e0f992c9dc6a6"
     },
     "downloads/START_HERE.md": {
-      "bytes": 3474,
-      "sha256": "6b76e0c8d9e07f3f572b45cc302d72bd1325323bb83d60aea2aa2514f309b230"
+      "bytes": 4705,
+      "sha256": "ca3a6b0c65f9e4e6c8f3eadf0b5271cd89c907ac4126d516dcecd643093aeff6"
     },
     "downloads/audio-cap-14pin-fit-gauge.stl": {
-      "bytes": 21884,
-      "sha256": "0166113692d7d1832e36a4962fca6df17b4b9561cf79c3910154c257d25a99dc"
+      "bytes": 26284,
+      "sha256": "d5099a3c68fd6b72fdba8da5521c0c920047e89f3f3c81903436b2caad6cb9f1"
     },
     "downloads/audio-cap-base.stl": {
-      "bytes": 46284,
-      "sha256": "1014e95cf4fd239d0a6cd8ab82161a7c5b2464a99dd9a29a02b4870f2ed1dbe4"
+      "bytes": 103484,
+      "sha256": "690a2d851af0dc62f181c4f2949cf78e960c62af310c3b34bdaa59076ede81bf"
     },
     "downloads/audio-cap-bom.json": {
       "bytes": 8023,
       "sha256": "80ac3dd9cbfd506771cfde35a9d534dc32bd63a49dde4402e79f037de900effd"
     },
     "downloads/audio-cap-design.json": {
-      "bytes": 2234,
-      "sha256": "50e9897c2d59f55e8d6bef18dce783f860d620be5c24508edb5941590e70e03e"
+      "bytes": 3037,
+      "sha256": "1ec4595fcd3fa73b162e1375d967e687f20f643714d2a0998783ab76810ff995"
     },
     "downloads/audio-cap-lid.stl": {
-      "bytes": 15884,
-      "sha256": "9f5c0427ef9fa7815b12179ca4331d75202eb0b010b9a1341311443d7ac45c7e"
+      "bytes": 40684,
+      "sha256": "c0d251e43958e0e68b0af92e90140f7121346ee54aff4b8e48b93ba2c5977642"
     },
     "downloads/button-layout.json": {
       "bytes": 5590,
@@ -62,5 +62,5 @@
     }
   },
   "project": "Mini Studio 16",
-  "source_sha": "088843be972dde1401db055e8bb1f291729f1166"
+  "source_sha": "f978bd991cc578ff080d63ebac5fec743c92f52c"
 }
