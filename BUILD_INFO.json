@@ -8,6 +8,30 @@
       "bytes": 17166,
       "sha256": "26c2187ebd2ef99220900d92d7b8d09d58e3c500abac79b4a9a4c2f0bb37d786"
     },
+    "downloads/AUDIO_CAP_BUILD_GUIDE.md": {
+      "bytes": 6921,
+      "sha256": "28ed99b55fa1c31c88e9aa36cdeac2ff1b93117a1a48bbbd6b7bfd011f8a3805"
+    },
+    "downloads/audio-cap-14pin-fit-gauge.stl": {
+      "bytes": 21884,
+      "sha256": "0166113692d7d1832e36a4962fca6df17b4b9561cf79c3910154c257d25a99dc"
+    },
+    "downloads/audio-cap-base.stl": {
+      "bytes": 46284,
+      "sha256": "1014e95cf4fd239d0a6cd8ab82161a7c5b2464a99dd9a29a02b4870f2ed1dbe4"
+    },
+    "downloads/audio-cap-bom.json": {
+      "bytes": 5502,
+      "sha256": "4afe04ad668e81f8eac3f6f98010c0baee8ab26e5ae392aea0de054fed9cb6ac"
+    },
+    "downloads/audio-cap-design.json": {
+      "bytes": 2234,
+      "sha256": "50e9897c2d59f55e8d6bef18dce783f860d620be5c24508edb5941590e70e03e"
+    },
+    "downloads/audio-cap-lid.stl": {
+      "bytes": 15884,
+      "sha256": "9f5c0427ef9fa7815b12179ca4331d75202eb0b010b9a1341311443d7ac45c7e"
+    },
     "downloads/button-layout.json": {
       "bytes": 5590,
       "sha256": "c1af5f61185f20243b6a584efb6fb823445521c141d81ff63cb0ca6c51431b4b"
@@ -26,5 +50,5 @@
     }
   },
   "project": "Mini Studio 16",
-  "source_sha": "0870b4920e75482392f493de8be7c279f4e52571"
+  "source_sha": "bb1165d7c3780fb96c8fd5a3d14ca61616fff9af"
 }
