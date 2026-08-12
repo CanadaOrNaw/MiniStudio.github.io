@@ -1,8 +1,8 @@
 {
   "generated_assets": {
     "assets/button-layout.json": {
-      "bytes": 5590,
-      "sha256": "c1af5f61185f20243b6a584efb6fb823445521c141d81ff63cb0ca6c51431b4b"
+      "bytes": 7022,
+      "sha256": "85f2d8973a9f972c3e574add09a9373995ddf2ba590c050bee9c59f740e86fca"
     },
     "assets/mini-studio-16-button-layout.svg": {
       "bytes": 17166,
@@ -13,16 +13,16 @@
       "sha256": "cfad371b726a45e50878167df1a59aecaa9ce0c4880bb44159e15383ac33345a"
     },
     "downloads/AUDIO_CAP_BUILD_GUIDE.md": {
-      "bytes": 9770,
-      "sha256": "242e493edd28d96909c83d50b02647598a615df27d9ff94f97604a8ae4c47fb7"
+      "bytes": 9747,
+      "sha256": "1d3d2b601c0b443a8f429c2118607b1a46fe8528ec1ff6a5b15f6b5e0ef1fc09"
     },
     "downloads/FLASHING.md": {
       "bytes": 4571,
       "sha256": "be1ef8911070aca59a6dba0b4b0f4b6ee3f15ba5e6847a86884e0f992c9dc6a6"
     },
     "downloads/START_HERE.md": {
-      "bytes": 4705,
-      "sha256": "ca3a6b0c65f9e4e6c8f3eadf0b5271cd89c907ac4126d516dcecd643093aeff6"
+      "bytes": 4987,
+      "sha256": "cb217b84292075f00664d5097f6ba7c92e6ee595cfd6bcf5491ec5b9d2af05e7"
     },
     "downloads/audio-cap-14pin-fit-gauge.stl": {
       "bytes": 26284,
@@ -45,8 +45,8 @@
       "sha256": "c0d251e43958e0e68b0af92e90140f7121346ee54aff4b8e48b93ba2c5977642"
     },
     "downloads/button-layout.json": {
-      "bytes": 5590,
-      "sha256": "c1af5f61185f20243b6a584efb6fb823445521c141d81ff63cb0ca6c51431b4b"
+      "bytes": 7022,
+      "sha256": "85f2d8973a9f972c3e574add09a9373995ddf2ba590c050bee9c59f740e86fca"
     },
     "downloads/mini-studio-16-bench-cradle.scad": {
       "bytes": 1437,
@@ -62,5 +62,5 @@
     }
   },
   "project": "Mini Studio 16",
-  "source_sha": "f978bd991cc578ff080d63ebac5fec743c92f52c"
+  "source_sha": "f1e0a3bb42fa1b2d38e2f3e7b13c92df524406a3"
 }
