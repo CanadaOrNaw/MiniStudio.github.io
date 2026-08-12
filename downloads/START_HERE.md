@@ -35,7 +35,8 @@ The easy way — no account needed:
 The developer way — only if you want the newest unreleased build:
 
 1. Open [Build v3 alpha](https://github.com/CanadaOrNaw/Mini-Studio-16/actions/workflows/build-v3-alpha.yml).
-2. Open the newest green run for `agent/v3-alpha-sd-streaming`.
+2. Open the newest green run for the branch named in the open completion PR
+   (currently `agent/complete-three-in-one`).
 3. At the bottom, download the artifact named
    `microgroove-v3-alpha-cardputer-adv`. **This path always requires a free
    GitHub account sign-in, and each run's artifact is deleted about 90 days
@@ -87,6 +88,11 @@ Normal mode for the first test. Press any key other than `Tab` to continue.
 The factory project uses built-in drum engines, so it should make sound even if
 sample files were copied incorrectly.
 
+After that basic regression, tap `ctrl` to CHORD and press
+`fn shift a s d f g` to play I–VII. Continue to KO for momentary punch
+effects and MEDO for the five performance roles. The complete context map and
+manual are included in the package.
+
 ## If it does not work
 
 - Nothing appears as a serial port: try another known data cable and USB port.
@@ -99,5 +105,5 @@ sample files were copied incorrectly.
   and record the symptom before trying again.
 
 Once the basic boot/audio pass works, use
-[`CARDPUTER_TESTING.md`](https://github.com/CanadaOrNaw/Mini-Studio-16/blob/agent/v3-alpha-sd-streaming/docs/CARDPUTER_TESTING.md) and record measured results. That
+[`CARDPUTER_TESTING.md`](https://github.com/CanadaOrNaw/Mini-Studio-16/blob/main/docs/CARDPUTER_TESTING.md) and record measured results. That
 physical evidence is the remaining engineering gate.

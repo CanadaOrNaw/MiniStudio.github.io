@@ -18,7 +18,7 @@ are planned for enclosure rev-B.
 
 Open the human-readable
 [`AUDIO_CAP_BOM.md`](AUDIO_CAP_BOM.md) and use the table for your region. It is
-generated from the canonical [`hardware/audio-cap/bom.json`](https://github.com/CanadaOrNaw/Mini-Studio-16/blob/agent/v3-alpha-sd-streaming/hardware/audio-cap/bom.json)
+generated from the canonical [`hardware/audio-cap/bom.json`](https://github.com/CanadaOrNaw/Mini-Studio-16/blob/main/hardware/audio-cap/bom.json)
 and tested to contain exact purchase SKUs for Canada, the United States and the
 European Union.
 
